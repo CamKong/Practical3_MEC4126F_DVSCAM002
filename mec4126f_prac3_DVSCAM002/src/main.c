@@ -16,6 +16,8 @@ struct age_data{
 	uint8_t age;
 }my_age;
 
+cam
+
 // FUNCTION DECLARATIONS -----------------------------------------------------|
 
 void main(void);                                                   //COMPULSORY
